@@ -23,4 +23,8 @@ DerivedData
 Pods
 ObjectiveC.gcda
 
+# SPM
+.build
+.swiftpm
+
 *.gcno
