@@ -5,8 +5,8 @@ import PackageDescription
 let package = Package(
     name: "libPhoneNumber",
     platforms: [
-        .macOS(.v10_10),
-        .iOS(.v11),
+        .macOS(.v10_11),
+        .iOS(.v12),
         .tvOS(.v11),
         .watchOS(.v4)
     ],
